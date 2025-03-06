@@ -1,0 +1,7 @@
+tensorflow
+pytorch
+scikit-learn
+numpy
+pandas
+flask
+hyperledger-fabric-sdk-py
